@@ -42,7 +42,7 @@ auth:
 
 Habilite o package do JSON Rest Server globalmente no seu ambiente, executando:
 
-```dart
+```bash
 dart pub global activate json_rest_server
 ```
 
